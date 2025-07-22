@@ -1,6 +1,6 @@
-<!-- HACKER STYLE GITHUB PROFILE README with grey background -->
+<!-- HACKER STYLE GITHUB PROFILE README with dark mode -->
 
-<div style="background-color:#1e1e1e; padding:20px; border-radius:10px; color:#00FF00; font-family:monospace;">
+<div style="background-color:#0d1117; padding:20px; border-radius:10px; color:#00ff00; font-family:monospace;">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+Hacknet...;Access+Granted+%F0%9F%92%BB;Welcome+to+my+Repo+Terminal" alt="Typing SVG" />
