@@ -1,5 +1,5 @@
 <!-- HACKER STYLE GITHUB PROFILE README -->
-<div style="background-color:#1e1e1e; padding:30px; color🐈‍⬛; border-radius:10px;">
+<div style="background-color:#1e1e1e; padding:30px; color:black; border-radius:10px;">
 <!-- Your entire README content inside here -->
 
 
