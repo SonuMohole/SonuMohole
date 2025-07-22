@@ -1,4 +1,7 @@
 <!-- HACKER STYLE GITHUB PROFILE README -->
+<div style="background-color:#1e1e1e; padding:30px; color:white; border-radius:10px;">
+<!-- Your entire README content inside here -->
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+Hacknet...;Access+Granted+%F0%9F%92%BB;Welcome+to+my+Repo+Terminal" alt="Typing SVG" />
