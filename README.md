@@ -1,39 +1,34 @@
-<!-- HACKER STYLE GITHUB PROFILE README -->
-<div style="background-color:#1e1e1e; padding:30px; color:black; border-radius:10px;">
-<!-- Your entire README content inside here -->
+<!-- HACKER STYLE GITHUB PROFILE README with grey background -->
 
-
-
+<div style="background-color:#1e1e1e; padding:20px; border-radius:10px; color:#00FF00; font-family:monospace;">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+Hacknet...;Access+Granted+%F0%9F%92%BB;Welcome+to+my+Repo+Terminal" alt="Typing SVG" />
 </h1>
 
-```bash
+<pre>
 [~] Booting terminal...
-```
 
-```bash
 [+] Establishing encrypted connection...
 [+] Verifying user credentials...
 [+] Access Level: ROOT
 [+] Bypassing firewalls ██████████░░░░░░░░
 [+] Injecting profile data...
 [+] Trace cleaning: DONE
-```
+</pre>
 
 ---
 
 ## 👨‍💻 About Me
 
-```js
+<pre>
 const hacker = {
   alias: "0xYourAlias",
   skills: ["Python", "Go", "Rust", "Linux", "Shell Scripting", "Reverse Engineering"],
   tools: ["Nmap", "Wireshark", "Burp Suite", "Metasploit", "Ghidra", "IDA Pro"],
   motto: "I build. I break. I learn."
 };
-```
+</pre>
 
 > 🧠 “Code is my weapon, the terminal is my battlefield.”
 
@@ -41,13 +36,13 @@ const hacker = {
 
 ## 📂 Projects
 
-```bash
+<pre>
 /root
 ├── osint-toolkit         # Automates recon with APIs & scraping
 ├── c2-server             # Stealth command & control in Go
 ├── exploit-db-sync       # Offline exploit database fetcher
 └── net-scan-pro          # Fast multi-threaded network scanner
-```
+</pre>
 
 ---
 
@@ -90,13 +85,14 @@ const hacker = {
 
 ---
 
-```bash
+<pre>
 # SYSTEM TERMINAL SHUTDOWN INITIATED
 [~] Disconnecting from secure shell...
 [~] Scrubbing logs...
 [✓] Session terminated successfully.
-```
+</pre>
 
 > 👾 Stay paranoid. Stay encrypted. Stay ahead.  
 > — 0xYourAlias
+
 </div>
